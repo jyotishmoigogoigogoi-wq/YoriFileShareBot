@@ -1,7 +1,7 @@
 pyrogram
 pyrofork==2.3.38 
-TgCrypto
-pyromod
+TgCrypto==1.2.5
+pyromod==1.5
 humanize
 schedule
 APscheduler
