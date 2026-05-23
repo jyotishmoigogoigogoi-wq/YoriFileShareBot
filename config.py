@@ -10,31 +10,31 @@ from logging.handlers import RotatingFileHandler
 
 
 #Bot token @Botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8612232306:AAHPuWv-Y0uPQqLHTeAnT_wg2TfrCgoptfw")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "REALLY WANT MY BOT TOKEN ?")
 
 #Your API ID from my.telegram.org
-APP_ID = int(os.environ.get("APP_ID", "36876725"))
+APP_ID = int(os.environ.get("APP_ID", "TAKE MINE 🤣"))
 
 #Your API Hash from my.telegram.org
-API_HASH = os.environ.get("API_HASH", "b56bb18b3dc81623f950f1d8babb3ca6")
+API_HASH = os.environ.get("API_HASH", "USE YOUR OWN BRUH ")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003598638008"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003598638008")) #USE THIS 🤣
 
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", "7728424218"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "your tg id "))
 
 #Port
 PORT = os.environ.get("PORT", "8080")
 
 #Database 
-DB_URI = os.environ.get("DATABASE_URL",  "mongodb://yorichiiprimebusiness_db_user:DuLN8McOnlyGQyuc@ac-phbz9xb-shard-00-00.rjbi4hh.mongodb.net:27017,ac-phbz9xb-shard-00-01.rjbi4hh.mongodb.net:27017,ac-phbz9xb-shard-00-02.rjbi4hh.mongodb.net:27017/?ssl=true&replicaSet=atlas-93wehz-shard-0&authSource=admin&retryWrites=true&w=majority")
-DB_NAME = os.environ.get("DATABASE_NAME", "filesharexbot")
+DB_URI = os.environ.get("DATABASE_URL",  "ARE MONGO SE DB LAGA DAL ")
+DB_NAME = os.environ.get("DATABASE_NAME", "KUCH BHI DEDE")
 #Time in seconds for message Auto delete, put 0 to never delete
 TIME = int(os.environ.get("TIME", "86400"))
 
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL1 = int(os.environ.get("FORCE_SUB_CHANNEL1", "-1003358616217"))
+FORCE_SUB_CHANNEL1 = int(os.environ.get("FORCE_SUB_CHANNEL1", "-1003358616217")) # YE HAMESHA CAHIYE LAGA REHNA // ALWAYS ADD THSI CHANNEL 🙂‍↕️
 #put 0 to disable
 FORCE_SUB_CHANNEL2 = int(os.environ.get("FORCE_SUB_CHANNEL2", "0"))#put 0 to disable
 FORCE_SUB_CHANNEL3 = int(os.environ.get("FORCE_SUB_CHANNEL3", "0"))#put 0 to disable
@@ -71,10 +71,10 @@ PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" e
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True'
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
-USER_REPLY_TEXT = "<b>❌ Don't send me messages directly I'm only File Share bot !\n👨‍💻 Bot Devloper @metaui<\b>"
+USER_REPLY_TEXT = "<b>❌ Don't send me messages directly I'm only File Share bot !\n👨‍💻 Bot Devloper @YorichiiPrime<\b>"
 
 ADMINS.append(OWNER_ID)
-ADMINS.append(1250450587)
+ADMINS.append(7728424218)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
