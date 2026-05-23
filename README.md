@@ -15,7 +15,7 @@
 
 **If you need any more modes in repo or If you find out any bugs, mention in [@YoriFederation](https://t.me/YoriFederation)**
 
-**Make sure to see [contributing.md](https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/CONTRIBUTING.md) for instructions on contributing to the project!**
+**Make sure to see [contributing.md](https://github.com/yorichii/File-Sharing-Bot/blob/main/CONTRIBUTING.md) for instructions on contributing to the project!**
 
 
 
@@ -118,11 +118,7 @@ python3 main.py
 </details>
 
 
-# All Thanks To Our Contributors
-
 <a href="https://github.com/otterai/file-share-v2/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=otterai/file-share-v2" />
-</a>
 
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
