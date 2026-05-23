@@ -1,4 +1,4 @@
-#(©) PythonBotz 
+#(©) YoriFederation 
 
 import asyncio
 from pyrogram import filters, Client

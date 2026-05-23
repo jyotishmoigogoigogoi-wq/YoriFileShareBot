@@ -13,7 +13,7 @@
 ###<summary><b><i>🦄 More Information</i></b></summary>
 
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@PythonBotz](https://www.telegram.dog/pythonbotz)**
+**If you need any more modes in repo or If you find out any bugs, mention in [@YoriFederation](https://t.me/YoriFederation)**
 
 **Make sure to see [contributing.md](https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/CONTRIBUTING.md) for instructions on contributing to the project!**
 

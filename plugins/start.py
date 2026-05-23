@@ -1,4 +1,4 @@
-#(©) PythonBotz 
+#(©) YoriFederation 
 
  
 
@@ -170,7 +170,7 @@ REPLY_ERROR = """<code>Use this command as a replay to any telegram message with
     
     
 # Don't Remove Credit @rohit_1888 
-# Ask Doubt on telegram @offchats
+# Ask Doubt on telegram @youryori7
 
 @Bot.on_message(filters.command('start') & filters.private)
 async def not_joined(client: Client, message: Message):

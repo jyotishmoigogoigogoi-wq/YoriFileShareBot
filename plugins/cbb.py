@@ -1,4 +1,4 @@
-#(©) PythonBotz 
+#(©) YoriFederation 
 
 from pyrogram import __version__
 from bot import Bot
@@ -14,7 +14,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
 ├➤ ᴏᴡɴᴇʀ : <a href='t.me/peldiya'>ᴛʜɪs ᴘᴇʀsᴏɴ</a>
 ├➤ ʟɪʙʀᴀʀy : <a href=https://github.com/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a>
 ├➤ ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>ᴘʏᴛʜᴏɴ 3</a>
-├➤ ᴍʏ ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/PythonBotz>ᴏᴜᴛʟᴀᴡ ʙᴏᴛs</a>
+├➤ ᴍʏ ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/YoriFederation>ᴏᴜᴛʟᴀᴡ ʙᴏᴛs</a>
 ├➤ ᴘᴀɪᴅ ʙᴏᴛ : <a href=https://t.me/seiao>ᯓ ɪɴᴠᴀʟɪᴅ ᡣ𐭩</a>
 ├➤ ᴅᴇᴠʟᴏᴘᴇʀ : <a href=https://t.me/metaui>ᯓ ʜᴀᴛᴇ ғʀᴇᴇ ᡣ𐭩</a>
 ╰───────────────⍟</blockquote></b>""",

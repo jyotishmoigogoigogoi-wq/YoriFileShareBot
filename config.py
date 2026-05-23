@@ -1,4 +1,4 @@
-#(©) PythonBotz 
+#(©) YoriFederation 
 
 
 
@@ -10,32 +10,31 @@ from logging.handlers import RotatingFileHandler
 
 
 #Bot token @Botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8612232306:AAHPuWv-Y0uPQqLHTeAnT_wg2TfrCgoptfw")
 
 #Your API ID from my.telegram.org
-APP_ID = int(os.environ.get("APP_ID", ""))
+APP_ID = int(os.environ.get("APP_ID", "36876725"))
 
 #Your API Hash from my.telegram.org
-API_HASH = os.environ.get("API_HASH", "")
+API_HASH = os.environ.get("API_HASH", "b56bb18b3dc81623f950f1d8babb3ca6")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003598638008"))
 
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", ""))
+OWNER_ID = int(os.environ.get("OWNER_ID", "7728424218"))
 
 #Port
 PORT = os.environ.get("PORT", "8080")
 
 #Database 
-DB_URI = os.environ.get("DATABASE_URL", "")
+DB_URI = os.environ.get("DATABASE_URL",  "mongodb://yorichiiprimebusiness_db_user:DuLN8McOnlyGQyuc@ac-phbz9xb-shard-00-00.rjbi4hh.mongodb.net:27017,ac-phbz9xb-shard-00-01.rjbi4hh.mongodb.net:27017,ac-phbz9xb-shard-00-02.rjbi4hh.mongodb.net:27017/?ssl=true&replicaSet=atlas-93wehz-shard-0&authSource=admin&retryWrites=true&w=majority")
 DB_NAME = os.environ.get("DATABASE_NAME", "filesharexbot")
-
 #Time in seconds for message Auto delete, put 0 to never delete
 TIME = int(os.environ.get("TIME", "86400"))
 
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL1 = int(os.environ.get("FORCE_SUB_CHANNEL1", "0"))
+FORCE_SUB_CHANNEL1 = int(os.environ.get("FORCE_SUB_CHANNEL1", "-1003358616217"))
 #put 0 to disable
 FORCE_SUB_CHANNEL2 = int(os.environ.get("FORCE_SUB_CHANNEL2", "0"))#put 0 to disable
 FORCE_SUB_CHANNEL3 = int(os.environ.get("FORCE_SUB_CHANNEL3", "0"))#put 0 to disable
